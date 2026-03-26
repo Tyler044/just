@@ -1,0 +1,16 @@
+*{
+     margin: 0;
+}
+
+#nav-header{
+    background-color: yellowgreen;
+    text-align: center;
+}
+.nav-link{
+    list-style: none;
+}
+
+.nav-link li{
+    display:inline-block;
+    margin: 15px;
+}
